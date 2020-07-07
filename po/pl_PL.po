@@ -24,31 +24,31 @@ msgstr ""
 
 #: pdfarranger/metadata.py:35
 msgid "Title"
-msgstr ""
+msgstr "Tytuł"
 
 #: pdfarranger/metadata.py:36
 msgid "Creator"
-msgstr ""
+msgstr "Kreator"
 
 #: pdfarranger/metadata.py:37
 msgid "Producer"
-msgstr ""
+msgstr "Producent"
 
 #: pdfarranger/metadata.py:38
 msgid "Creator tool"
-msgstr ""
+msgstr "Narzędzie kreatora"
 
 #: pdfarranger/metadata.py:141
 msgid "Edit properties"
-msgstr ""
+msgstr "Edytuj właściwości"
 
 #: pdfarranger/metadata.py:154
 msgid "Property"
-msgstr ""
+msgstr "Właściwość"
 
 #: pdfarranger/metadata.py:154
 msgid "Value"
-msgstr ""
+msgstr "Wartość"
 
 #: pdfarranger/pdfarranger.py:520
 msgid "No document"
@@ -65,7 +65,7 @@ msgstr "Podgląd miniaturek… [%(i1)s/%(i2)s] "
 
 #: pdfarranger/pdfarranger.py:629
 msgid "Export…"
-msgstr "Zapisz…"
+msgstr "Eksport…"
 
 #: pdfarranger/pdfarranger.py:641 pdfarranger/pdfarranger.py:725
 msgid "PDF files"
@@ -81,15 +81,15 @@ msgstr "Zaimportuj… "
 
 #: pdfarranger/pdfarranger.py:1223
 msgid "Left"
-msgstr "Lewo"
+msgstr "Lewa"
 
 #: pdfarranger/pdfarranger.py:1223
 msgid "Right"
-msgstr "Prawo"
+msgstr "Prawa"
 
 #: pdfarranger/pdfarranger.py:1224
 msgid "Top"
-msgstr "Górę "
+msgstr "Góra"
 
 #: pdfarranger/pdfarranger.py:1224
 msgid "Bottom"
@@ -104,6 +104,8 @@ msgid ""
 "Cropping does not remove any content\n"
 "from the PDF file, it only hides it."
 msgstr ""
+"Przycinanie nie usuwa żadnej zawartości\n"
+"z pliku PDF, ukrywa go tylko."
 
 #: pdfarranger/pdfarranger.py:1252
 msgid "Crop Margins"
@@ -117,7 +119,7 @@ msgstr "% szerokość"
 #: pdfarranger/pdfarranger.py:1262
 #, fuzzy, python-format
 msgid "% of height"
-msgstr "% wysokości"
+msgstr "% wysokość"
 
 #: pdfarranger/pdfarranger.py:1369
 #, python-format
@@ -147,16 +149,16 @@ msgstr "Zapisz jako"
 
 #: data/pdfarranger.ui.h:4
 msgid "Number of Pages"
-msgstr ""
+msgstr "Liczba stron"
 
 #: data/pdfarranger.ui.h:5
 msgid "Main Menu"
-msgstr ""
+msgstr "Menu główne"
 
 #: data/pdfarranger.ui.h:6
 #, fuzzy
 msgid "Zoom In"
-msgstr "Powiększ "
+msgstr "Powiększ"
 
 #: data/pdfarranger.ui.h:7
 #, fuzzy
@@ -191,15 +193,15 @@ msgstr "Zapisz jako"
 #: data/menu.ui.h:4
 #, fuzzy
 msgid "E_xport Selection…"
-msgstr "_Zapisz wybrany/wybrane "
+msgstr "E_ksportuj wybrany…"
 
 #: data/menu.ui.h:5
 msgid "_Undo"
-msgstr ""
+msgstr "Cofnij"
 
 #: data/menu.ui.h:6
 msgid "_Redo"
-msgstr ""
+msgstr "Ponów"
 
 #: data/menu.ui.h:7
 msgid "_Edit"
@@ -215,47 +217,47 @@ msgstr "_Obróć w prawo"
 
 #: data/menu.ui.h:10
 msgid "Cro_p"
-msgstr ""
+msgstr "Przy_tnij"
 
 #: data/menu.ui.h:11
 msgid "_Delete"
 msgstr "_Usuń…"
 
 #: data/menu.ui.h:12
-msgid "Dupl_icate"
-msgstr ""
+msgid "Duplic_ate"
+msgstr "Zduplikowane"
 
 #: data/menu.ui.h:13
 msgid "Re_verse Order"
-msgstr ""
+msgstr "Kolejność odwracania"
 
 #: data/menu.ui.h:14
 msgid "_Split pages"
-msgstr ""
+msgstr "_Podział stron"
 
 #: data/menu.ui.h:15
 msgid "Cu_t"
-msgstr ""
+msgstr "P_rzytnij"
 
 #: data/menu.ui.h:16
 msgid "_Copy"
-msgstr ""
+msgstr "_Kopiuj"
 
 #: data/menu.ui.h:17
 msgid "Paste _After"
-msgstr ""
+msgstr "Wklej _po"
 
 #: data/menu.ui.h:18
 msgid "Paste _Before"
-msgstr ""
+msgstr "Wklej _przed"
 
 #: data/menu.ui.h:19
 msgid "Paste Interleave _Odd"
-msgstr ""
+msgstr "Wklej Kartki _Nieparzyste"
 
 #: data/menu.ui.h:20
 msgid "Paste Interleave _Even"
-msgstr ""
+msgstr "Wklej Kartki _Parzyste"
 
 #: data/menu.ui.h:21
 #, fuzzy
@@ -269,23 +271,23 @@ msgstr "Pomniejsz"
 
 #: data/menu.ui.h:23
 msgid "Edit _Properties"
-msgstr ""
+msgstr "Edytuj _własciwości"
 
 #: data/menu.ui.h:24
 msgid "_About"
-msgstr ""
+msgstr "O programie"
 
 #: data/menu.ui.h:25
 msgid "_Quit"
-msgstr ""
+msgstr "Wyjście"
 
 #: data/menu.ui.h:26
 msgid "Past_e Special"
-msgstr ""
+msgstr "Specjalne wklejanie"
 
 #: data/menu.ui.h:27
 msgid "_Split Pages"
-msgstr ""
+msgstr "_Podziel strony"
 
 #~ msgid "_File"
 #~ msgstr "_Plik"
